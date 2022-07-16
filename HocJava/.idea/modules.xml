@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HocToan/HocToan.iml" filepath="$PROJECT_DIR$/HocToan/HocToan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointManagement/PointManagement.iml" filepath="$PROJECT_DIR$/PointManagement/PointManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanLySinhVien/Project_Java_basis.iml" filepath="$PROJECT_DIR$/QuanLySinhVien/Project_Java_basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Workshop1.iml" filepath="$PROJECT_DIR$/.idea/Workshop1.iml" />
+    </modules>
+  </component>
+</project>
